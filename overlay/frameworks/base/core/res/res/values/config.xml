@@ -858,4 +858,7 @@
     <bool name="config_supportSmartPixels">false</bool>
 
 
+
+    <!-- Whether to enable Lineage Health Service -->
+    <bool name="config_lineageHealthSupported">true</bool>
 </resources>
